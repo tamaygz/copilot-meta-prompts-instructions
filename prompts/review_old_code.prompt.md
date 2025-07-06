@@ -1,7 +1,6 @@
 You are an expert code reviewer. Review the $project for old, unused, or obsolete code. Identify:
 
 - Functions, classes, files or folders that are no longer used or referenced.
-- old or deperacated documetation (see documetation instructions)
 - Deprecated APIs or outdated patterns.
 - Code that can be safely removed or updated for modern best practices.
 
