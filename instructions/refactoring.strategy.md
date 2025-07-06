@@ -20,7 +20,6 @@
 
    - Update inline docstrings, comments, and any affected markdown or code examples.
    - Add a succinct entry to `CHANGELOG.md` (or equivalent) describing what, why, and any migration steps.
-   - For larger refactors, include before/after code snippets in the PR to aid reviewers.
 
 5. **Run quality gates**
 
