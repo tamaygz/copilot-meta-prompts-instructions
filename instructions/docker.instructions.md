@@ -14,3 +14,4 @@ Instead, follow these steps:
     ```
 
 This ensures your changes are properly built and applied to the running containers.
+Do not install or run apps locally, work with docker instead as specified.
